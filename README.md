@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="HimiloTech Network" width="100%">
+</p>
+
 # 👋 Welcome to HimiloTech Network
 
 **HimiloTech Network** is a knowledge-driven initiative dedicated to empowering Somali youth across Europe and the Horn of Africa through IT education, digital literacy, and community-based learning.
